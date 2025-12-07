@@ -8,8 +8,8 @@ This project simulates a gas leakage detection system using Tinkercad, Arduino, 
 * Red LED
 * Buzzer
 * Gas sensor
-* Resistor 330 Ω
-* Resistor 4 700 Ω
+* Resistor for LED    330 Ω
+* Resistor for Sensor 4 700 Ω
 
 ## Software
 * Tinkercad
