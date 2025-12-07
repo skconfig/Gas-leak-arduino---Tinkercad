@@ -1,4 +1,4 @@
-# Gas-leak-arduino - Tinkercad
+# Gas leak arduino - Tinkercad
 
 ## Overview
 This project simulates a gas leakage detection system using Tinkercad, Arduino, a gas sensor, a red LED, and a buzzer. The system monitors the sensor value and activates the alarm (LED and buzzer) when the value exceeds a predefined threshold.
@@ -12,8 +12,8 @@ This project simulates a gas leakage detection system using Tinkercad, Arduino, 
 * Resistor 4 700 Ω
 
 ## Software
-* Arduino IDE
 * Tinkercad
+* Arduino IDE
 
 ## Circuit Diagram
 ![alt text](gas_leak.png)
